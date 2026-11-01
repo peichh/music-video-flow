@@ -1,4 +1,4 @@
 interface:
-  display_name: "Music Video Workflow"
+  display_name: "Music Video Flow"
   short_description: "Create an MV, lyric video, or scene montage end to end"
-  default_prompt: "Use $lyrics-video-workflow to turn my prompt, song, and assets into an MV, lyric video, or scene montage, then edit and verify it."
+  default_prompt: "Use $music-video-flow to turn my prompt, song, and assets into an MV, lyric video, or scene montage, then edit and verify it."
