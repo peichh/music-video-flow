@@ -4,6 +4,8 @@ A reusable Codex skill for planning, generating, editing, and checking story-led
 
 ## Install with the Skills CLI
 
+Requires Node.js 22.20 or later (see the [Skills CLI](https://github.com/vercel-labs/skills)).
+
 Install globally for Codex:
 
 ```bash
